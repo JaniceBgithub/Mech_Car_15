@@ -33,4 +33,14 @@ Lots 1, 2 and 3 are similar - they all have p values higher than 0.05 which and 
 
 ![t](https://github.com/JaniceBgithub/Mech_Car_15/blob/main/Resources/t-test%20summary.png)
 
+##MechaCar vs Competition
+
+Fuel efficiency is extremely important to the modern consumer.  MechaCar's fuels efficiency could be compared against other competitor cars by doing the following: 
+
+- Compile vehicle information for competitor cars for fuel consumption vs vehicle characteristics. Run a multiple linear regression to on competitors cars and compare against MechaCars to determine if the same factors are statistically important (if the Pr>t values are less than 0.05).
+- Use the MechaCar regression model and the competitor regression model, input the same sets of parameters and compare MechaCar vs competitor fuel consumption.
+- The hypothesis is that given the same set of car parameters, fuel efficiency will be exactly the same. 
+
+
+
 
