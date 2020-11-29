@@ -25,6 +25,14 @@ Lot 2 is nearly on target, but not quite as good as lot 1.  Lot 2 is acceptable.
 
 ![lot_summary](https://github.com/JaniceBgithub/Mech_Car_15/blob/main/Resources/2B.png)
 
+The following boxplot shows the variation in PSI for the three lots
+![box](https://github.com/JaniceBgithub/Mech_Car_15/blob/main/Resources/BOXPLOT.png)
+
+Disbution of PSI for suspension coils:
+![BAR](https://github.com/JaniceBgithub/Mech_Car_15/blob/main/Resources/Barplot.png)
+
+
+
 ## T tests on suspension coils
 
 The mean of the entire sample set is 1498.78.  The p value for the entire dataset is 0.0628 when compared to the target of 1500.  Since this is higher than the significance level of 0.05, the null hyphothesis is not rejected - the means are statistically the same. 
