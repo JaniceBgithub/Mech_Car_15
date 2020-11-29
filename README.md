@@ -26,9 +26,11 @@ Lot 2 is nearly on target, but not quite as good as lot 1.  Lot 2 is acceptable.
 ![lot_summary](https://github.com/JaniceBgithub/Mech_Car_15/blob/main/Resources/2B.png)
 
 The following boxplot shows the variation in PSI for the three lots
+
 ![box](https://github.com/JaniceBgithub/Mech_Car_15/blob/main/Resources/BOXPLOT.png)
 
 Disbution of PSI for suspension coils:
+
 ![BAR](https://github.com/JaniceBgithub/Mech_Car_15/blob/main/Resources/Barplot.png)
 
 
