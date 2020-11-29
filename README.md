@@ -29,7 +29,7 @@ The following boxplot shows the variation in PSI for the three lots
 
 ![box](https://github.com/JaniceBgithub/Mech_Car_15/blob/main/Resources/BOXPLOT.png)
 
-Disbution of PSI for suspension coils:
+Distribution of PSI for suspension coils:
 
 ![BAR](https://github.com/JaniceBgithub/Mech_Car_15/blob/main/Resources/Barplot.png)
 
