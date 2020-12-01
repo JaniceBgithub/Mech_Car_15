@@ -1,4 +1,4 @@
-# Mech_Car_15
+# Mecha_Car_15
 
 ## Linear Regression to Predict MPG
 
